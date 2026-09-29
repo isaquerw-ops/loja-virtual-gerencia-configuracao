@@ -6,6 +6,7 @@ Representa os produtos disponíveis na loja virtual.
 
 - id: Integer
 - nome: String
+- categoria: String
 - descricao: String
 - preco: Double
 - estoque: Integer
