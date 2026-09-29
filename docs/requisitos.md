@@ -16,4 +16,3 @@ Desenvolver um sistema de loja virtual que permita aos clientes consultar produt
 - Gerenciamento de produtos;
 - Gerenciamento de pedidos;
 
-- docs: adiciona requisitos iniciais do sistema
